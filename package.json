@@ -1,0 +1,10 @@
+{
+  "name": "prettier-config-gerard",
+  "version": "0.9.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "dependencies": {}
+}
